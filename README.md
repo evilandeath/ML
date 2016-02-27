@@ -1,2 +1,2 @@
-# ML-KNN
-Machine Learning - KNN implement
+# Machine Learning
+Algorithm
